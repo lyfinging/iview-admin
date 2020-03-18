@@ -1,6 +1,6 @@
 <template>
   <div class="iview-container">
-      <img src="../../assets/iview.jpg" alt="">
+      <!-- <img src="../../assets/iview.jpg" alt=""> -->
       <div class="iview-a"><a href="https://www.iviewui.com/">一套基于 Vue.js 的高质量UI 组件库</a></div>
   </div>
 </template>
